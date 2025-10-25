@@ -27,4 +27,4 @@ This repo is a simple record of my learning journey — it’s not perfect, but 
 ---
 
 ### 📫 Contact
-You can reach me here on GitHub or through my student email *(add your email if you want)*.
+You can reach me here on GitHub or through my student email   24-CyS-003@student.hitecuni.edu.pk.
